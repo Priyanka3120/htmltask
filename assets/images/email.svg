@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing4" transform="translate(-1016.000000, -5043.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="email" transform="translate(1016.000000, 5043.000000)">
+                <path d="M13.5,2.91428571 L7.5,6.55714286 L1.5,2.91428571 L1.5,1.45714286 L7.5,5.1 L13.5,1.45714286 L13.5,2.91428571 Z M13.5,0 L1.5,0 C0.6675,0 0,0.648428571 0,1.45714286 L0,10.2 C0,11.0047578 0.671572875,11.6571429 1.5,11.6571429 L13.5,11.6571429 C14.3284271,11.6571429 15,11.0047578 15,10.2 L15,1.45714286 C15,0.648428571 14.325,0 13.5,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>map-marker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing4" transform="translate(-1019.000000, -4946.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="map-marker" transform="translate(1019.000000, 4946.000000)">
+                <path d="M5.6,7.6 C4.4954305,7.6 3.6,6.7045695 3.6,5.6 C3.6,5.06956702 3.81071368,4.56085919 4.18578644,4.18578644 C4.56085919,3.81071368 5.06956702,3.6 5.6,3.6 C6.7045695,3.6 7.6,4.4954305 7.6,5.6 C7.6,6.13043298 7.38928632,6.63914081 7.01421356,7.01421356 C6.63914081,7.38928632 6.13043298,7.6 5.6,7.6 L5.6,7.6 Z M5.6,0 C2.5072054,0 0,2.5072054 0,5.6 C0,9.8 5.6,16 5.6,16 C5.6,16 11.2,9.8 11.2,5.6 C11.2,2.5072054 8.6927946,0 5.6,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
